@@ -1,4 +1,3 @@
-print("Hello my world");
-print("Hi, everybody");
-print("Hi");
-print("Glad to see you");
+print("Hello my world;");
+print("Hi, everybody;");
+print("Hi;");
